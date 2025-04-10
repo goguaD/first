@@ -95,3 +95,6 @@ MAE: საშუალო აბსოლუტური შეცდომა.
 
 საუკეთესო მოდელის შედეგები:
 მოდელი არჩეულია მიღწეული მეტრიკების საფუძველზე, რომლებიც აჩვენებენ მის სიზუსტეს და სტაბილურობას სხვადასხვა მონაცემზე.
+
+MLFLOW:
+https://dagshub.com/goguaD/HW01.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
